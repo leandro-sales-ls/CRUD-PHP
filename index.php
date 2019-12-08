@@ -12,7 +12,7 @@
     <div class="container">
         <div>
             <div class="row">
-                <h2>SISTEMA DE CADASTRO <span class="badge badge-secondary">MARCIO BARBOSA</span></h2>
+                <h2>SISTEMA DE CADASTRO <span class="badge badge-secondary">LEANDRO SALES</span></h2>
             </div>
         </div>
         </br>
