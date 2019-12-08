@@ -1,0 +1,90 @@
+body {
+  background: #B0E0E6;
+  text-align: center; 
+}
+
+td, th {
+  padding: .7em;
+  margin: 0;
+  background: #ffffff;
+  text-align: center;
+}
+
+th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4B0082;
+  color: white;
+  font-weight:bold;
+}
+td{
+  font-weight:bold;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table{
+  width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+}
+
+header, nav {
+  text-align: center;
+  background: white;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.success {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+
+}
+
+.danger {
+  background-color: #f44336 ;
+  border: none;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+
+}
+
+.warning {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+
+}
+
+.default{
+  background-color: 	#F0E68C;
+  border: none;
+  color: black;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+
+}
+ .btn{
+  font-size: 24px;
+ }
